@@ -1,0 +1,1 @@
+UiPathDeploy environments: '', folderName: 'Default', orchestratorAddress: 'https://cloud.uipath.com/capgebijitkd/CapgeminiDefault', orchestratorTenant: '', packagePath: 'C:\\Users\\narender\\Documents\\GitHub\\UIPATH\\BasicProcessForPipeline\\New folder\\BasicProcessForPipeline.1.0.1.nupkg'
